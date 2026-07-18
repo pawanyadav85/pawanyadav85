@@ -102,12 +102,15 @@
 </a>
 </p>
 
-## 💬 Random Dev Quote
+## 💬 My Motto
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<div align="center">
 
+### 💻 *"Consistency, Projects, and Problem Solving are the keys to becoming a great Software Engineer."*
+
+#### — **Pawan Yadav**
+
+</div>
 
 ---
 
