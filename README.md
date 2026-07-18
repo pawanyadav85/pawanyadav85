@@ -119,3 +119,8 @@
 Made with ❤️ by <b>Pawan Yadav</b>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pawanyadav85/pawanyadav85/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
